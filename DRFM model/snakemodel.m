@@ -1,4 +1,4 @@
-[f,v,n]=read_stl_file('x-y投影2.stl');                                                                                                                                                                      
+[f,v,n]=read_stl_file('x-y.stl');                                                                                                                                                                      
 hold on;
 Ftotal=[0 0 0];
 vtotal=0;
