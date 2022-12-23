@@ -6,13 +6,13 @@ This work is based on our T-Mech paper: The Influence of Non-zero Slope on Snake
 
 ## Dependencies
 ### Requirements:
-- Taichi Lang (Taichi: High-Performance Computation on Sparse Data Structures) https://github.com/taichi-dev/taichi
+- Taichi Lang (Taichi: High-Performance Computation on Sparse Data Structures) https://github.com/taichi-dev/taichi.
 - Matlab 2022
 
 The experimental process is illustrated in the video folder:
 [Experimental video](https://github.com/sidewinding/snakerobot/blob/main/video/Supplementary%20Movie%20S1.mp4).
 
-https://user-images.githubusercontent.com/97268100/209332671-2e54ebf7-8576-47dc-9177-e71f859de653.mp4.
+https://user-images.githubusercontent.com/97268100/209332671-2e54ebf7-8576-47dc-9177-e71f859de653.mp4
 
 ![image](https://github.com/sidewinding/snakerobot/blob/main/picture/1.png)
 
