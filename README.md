@@ -11,6 +11,7 @@ This work is based on our T-Mech paper: The Influence of Non-zero Slope on Snake
 
 The experimental process is illustrated in the video folder:
 [Experimental video](https://github.com/sidewinding/snakerobot/blob/main/video/Supplementary%20Movie%20S1.mp4).
+https://github.com/sidewinding/snakerobot/blob/main/video/Supplementary%20Movie%20S1.mp4
 ![image](https://github.com/sidewinding/snakerobot/blob/main/picture/1.png)
 
 The 3D printing model of machine snake is illustrated in folder: /3D printing model.
