@@ -1,4 +1,4 @@
-# The Influence of Non-zero Slope on Snake Robot Sidewinding Locomotion in Granular Terrains
+# A Novel Sidewinding Snake Robot with Non-zero Slope in Granular Terrains Modeled by DRFM
 Created by Lei Huang, Hengqiang Ming, and Yuehong Yin
 
 ## Introduction
