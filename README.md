@@ -2,7 +2,7 @@
 Created by Lei Huang, Hengqiang Ming, and Yuehong Yin
 
 ## Introduction
-This work is based on our T-Mech paper: The Influence of Non-zero Slope on Snake Robot Sidewinding Locomotion in Granular Terrains. The article reveals the biological mechanism of snake sidewinding locomotion in granular terrain, and the proposed snake robot has potential applications in desert exploration and rescue.
+This work is based on our T-Mech paper: A Novel Sidewinding Snake Robot with Non-zero Slope in Granular Terrains Modeled by DRFM. The article reveals the biological mechanism of snake sidewinding locomotion in granular terrain, and the proposed snake robot has potential applications in desert exploration and rescue.
 
 ## Dependencies
 ### Requirements:
